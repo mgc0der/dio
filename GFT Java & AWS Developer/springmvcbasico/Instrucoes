@@ -1,0 +1,19 @@
+1
+ - Anotação @Valid do javax não está incluída automaticamente na dependência spring-boot-starter-web
+ - https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.3-Release-Notes#validation-starter-no-longer-included-in-web-starters
+   <dependency>
+   		<groupId>org.springframework.boot</groupId>
+   		<artifactId>spring-boot-starter-validation</artifactId>
+   	</dependency>
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
